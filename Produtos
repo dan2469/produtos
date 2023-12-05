@@ -1,0 +1,31 @@
+<!DOCTYPEhtml>
+<html lang-"pt-br">
+<head>
+    <meta charset="UTF-8"
+    <title>Produtos do Starbobby</title>
+    <link rel="stylesheet" href="style.CSS"
+</head>
+
+<p> "Nossos produtos são extremamente diversos, alguns exemplos do nosso cardapio estão abaixo;"</p>
+
+<p>
+<center>
+    <img src="cafe.jpeg" >
+
+</p>
+
+<p>"Cafés de diversos tipos"</p>
+
+<p>
+
+    <img src="comida.jpeg" >
+
+</center>
+</p>
+<center>
+<p>"Diversas comidas"</p>
+</center>
+
+<body>
+
+</body>
